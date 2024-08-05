@@ -12,35 +12,33 @@ Follow these steps to set up the File Hider Java Project on your local machine:
 
 Clone the Repository
 
-bash
-Copy code
-git clone https://github.com/nizrhm/file_hider.git
+git clone https://github.com/nizrhm/file-hider.git
+
 Navigate to the Project Directory
 
-bash
-Copy code
-cd file_hider
+cd file-hider
+
 Set Up Your Development Environment
 
 Ensure you have Java Development Kit (JDK) 11 or higher installed.
 Optionally, you can use an Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse.
+
 Compile the Project
 
 Navigate to the project directory and compile the Java source files:
 
-bash
-Copy code
 javac -d bin src/**/*.java
+
 Run the Application
 
 To start the application, use the following command:
 
-bash
-Copy code
 java -cp bin com.example.file_hider.Main
+
 Make sure to replace com.example.file_hider.Main with the appropriate main class path if it's different.
 
 Usage
+
 After starting the application, you can use the following features:
 
 Encrypt a File: Use the GUI or command-line interface to select a file and apply encryption.
