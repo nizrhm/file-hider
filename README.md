@@ -14,7 +14,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/file_hider.git
+git clone https://github.com/nizrhm/file_hider.git
 Navigate to the Project Directory
 
 bash
